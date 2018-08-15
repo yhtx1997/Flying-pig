@@ -852,7 +852,7 @@
             this.list = i
           },
           cityClick(t) {
-            this.changeCity(t), this.$router.push("/")
+            this.changeCity(t), this.keyword="", this.$router.push("/")
           },
           ...Object(v["b"])(["changeCity"])
         },
