@@ -90,33 +90,23 @@
       	"desc": "有护照就出发"
       }],
       "likeList": [{
-      	"id": "0001",
-      	"imgUrl": "http://img1.qunarzz.com/sight/source/1505/a3/fa73508dec93a4.jpg_r_640x214_e7188d69.jpg",
-      	"title": "漂流的激情夏日",
-      	"desc": "激情夏日，挑战大自然清爽"
-      }, {
-      	"id": "0002",
-      	"imgUrl": "http://img1.qunarzz.com/sight/source/1505/ea/b14877acf32c3d.jpg_r_640x214_093521a7.jpg",
-      	"title": "玩转水上乐园",
-      	"desc": "消夏好去处，戏水乐园等你来"
-      }, {
       	"id": "0003",
-      	"imgUrl": "http://img1.qunarzz.com/sight/p0/1603/1c/1c67791edbe2677b90.img.jpg_640x276_682d26a3.jpg",
+      	"imgUrl": "https://img1.qunarzz.com/sight/p0/1603/1c/1c67791edbe2677b90.img.jpg_640x276_682d26a3.jpg",
       	"title": "珠江夜游",
       	"desc": "碧水潋滟，华灯闪烁，犹如七色明珠镶嵌珠江"
       }, {
       	"id": "0004",
-      	"imgUrl": "http://img1.qunarzz.com/sight/p0/1603/3c/3c514c20a740128b90.water.jpg_640x276_4fb24103.jpg",
+      	"imgUrl": "https://img1.qunarzz.com/sight/p0/1603/3c/3c514c20a740128b90.water.jpg_640x276_4fb24103.jpg",
       	"title": "南沙百万葵园",
       	"desc": "记录唯美爱情，拍摄婚纱的好去处"
       }, {
       	"id": "0005",
-      	"imgUrl": "http://img1.qunarzz.com/sight/source/1506/fd/08f524fa9455b4.jpg_r_640x214_b37dbb39.jpg",
+      	"imgUrl": "https://img1.qunarzz.com/sight/source/1506/fd/08f524fa9455b4.jpg_r_640x214_b37dbb39.jpg",
       	"title": "暑期玩转粤港澳",
       	"desc": "这个假期开启最高大上的国内游"
       }, {
       	"id": "0006",
-      	"imgUrl": "http://img1.qunarzz.com/sight/source/1505/96/c5401993cd3b48.jpg_r_640x214_18948dd3.jpg",
+      	"imgUrl": "https://img1.qunarzz.com/sight/source/1505/96/c5401993cd3b48.jpg_r_640x214_18948dd3.jpg",
       	"title": "开启激情逐浪之旅",
       	"desc": "畅爽一夏从这里开始!"
       }]
